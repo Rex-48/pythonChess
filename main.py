@@ -20,14 +20,14 @@ class Piece:
 ## The first parameter defines what team its on and the second, what type of piece it is
 bp = Piece('b', 'p', 'assets//b_pawn.png')
 wp = Piece('w', 'p', 'assets//w_pawn.png')
-bk = Piece('b', 'k', 'assets//b_king.png')
-wk = Piece('w', 'k', 'assets//w_king.png')
+bk = Piece('b', 'k', 'assets//b_queen.png')
+wk = Piece('w', 'k', 'assets//w_queen.png')
 br = Piece('b', 'r', 'assets//b_rook.png')
 wr = Piece('w', 'r', 'assets//w_rook.png')
 bb = Piece('b', 'b', 'assets//b_bishop.png')
 wb = Piece('w', 'b', 'assets//w_bishop.png')
-bq = Piece('b', 'q', 'assets//b_queen.png')
-wq = Piece('w', 'q', 'assets//w_queen.png')
+bq = Piece('b', 'q', 'assets//b_king.png')
+wq = Piece('w', 'q', 'assets//w_king.png')
 bkn = Piece('b', 'kn', 'assets//b_knight.png')
 wkn = Piece('w', 'kn', 'assets//w_knight.png')
 
